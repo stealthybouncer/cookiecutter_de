@@ -1,0 +1,7 @@
+{
+    "project_name": "My Data Engineering Project",
+    "project_slug": "my_data_engineering_project",
+    "author": "John Smith <john@example.com>",
+    "email": "john@example.com",
+    "description": "A short description of the project."
+}
